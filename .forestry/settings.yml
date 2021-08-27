@@ -21,8 +21,8 @@ sections:
 - type: document
   path: src/_data/tokens.json
   label: Theme settings
-upload_dir: src/images
-public_path: "/images"
+upload_dir: ''
+public_path: https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,ar_4:3,c_fill,c_scale,w_auto
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
