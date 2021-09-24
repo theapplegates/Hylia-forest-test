@@ -22,7 +22,7 @@ sections:
   path: src/_data/tokens.json
   label: Theme settings
 upload_dir: https://res.cloudinary.com/paulportfolio/image/upload
-public_path: https://res.cloudinary.com/paulportfolio/image/upload/avif
+public_path: https://res.cloudinary.com/paulportfolio/image
 front_matter_path: https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,ar_16:9,c_fill/c_scale,w_auto:breakpoints_200_1920_30_15
 use_front_matter_path: true
 file_template: ":filename:"
